@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Financing under Demand Uncertainty</title>
+      <link>/publication/demand-uncertainty/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/demand-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceived Precautionary Savings Motive: Evidence from FinTech</title>
+      <link>/publication/perceived-precautionary-savings/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/perceived-precautionary-savings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Limits to Arbitrage in Markets with Stochastic Settlement Latency</title>
       <link>/publication/stochastic-latency/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -21,19 +39,10 @@
     
     <item>
       <title>The Dark Side of Liquid Bonds in Fire Sales</title>
-      <link>/publication/dark-side-of-liquid-bonds/</link>
+      <link>/_old/dark-side-of-liquid-bonds/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dark-side-of-liquid-bonds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why Do Mutual Funds Hold Cash?</title>
-      <link>/publication/mutual-fund-cash/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mutual-fund-cash/</guid>
+      <guid>/_old/dark-side-of-liquid-bonds/</guid>
       <description></description>
     </item>
     
@@ -43,6 +52,15 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/fishing-with-pearls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Do Mutual Funds Hold Cash?</title>
+      <link>/publication/mutual-fund-cash/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mutual-fund-cash/</guid>
       <description></description>
     </item>
     
