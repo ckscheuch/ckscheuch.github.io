@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Christoph K. Scheuch</title>
-    <link>/publication_types/3/</link>
-    <description>Recent content in 3 on Christoph K. Scheuch</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>3 | Christoph Scheuch</title>
+    <link>https://christophscheuch.github.io/publication_types/3/</link>
+      <atom:link href="https://christophscheuch.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://christophscheuch.github.io/publication_types/3/</link>
+    </image>
     
     <item>
-      <title>The Dark Side of Liquid Bonds in Fire Sales</title>
-      <link>/publication/dark-side-of-liquid-bonds/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dark-side-of-liquid-bonds/</guid>
+      <title>Crowdfunding with Private Consumer Valuations</title>
+      <link>https://christophscheuch.github.io/publication/demand-uncertainty/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/publication/demand-uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Why Do Mutual Funds Hold Cash?</title>
-      <link>/publication/mutual-fund-cash/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mutual-fund-cash/</guid>
+      <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
+      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits to Arbitrage in Markets with Stochastic Settlement Latency</title>
+      <link>https://christophscheuch.github.io/publication/stochastic-latency/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/publication/stochastic-latency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms</title>
-      <link>/publication/fishing-with-pearls/</link>
+      <link>https://christophscheuch.github.io/publication/fishing-with-pearls/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/fishing-with-pearls/</guid>
+      <guid>https://christophscheuch.github.io/publication/fishing-with-pearls/</guid>
       <description></description>
     </item>
     
