@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[Francesco D&#39;Acunto](http://www.francescodacunto.com/) | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/authors/francesco-dacuntohttp/www.francescodacunto.com/</link>
-      <atom:link href="https://christophscheuch.github.io/authors/francesco-dacuntohttp/www.francescodacunto.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/francesco-dacuntohttp/www.francescodacunto.com/</link>
+      <atom:link href="/authors/francesco-dacuntohttp/www.francescodacunto.com/index.xml" rel="self" type="application/rss+xml" />
     <description>[Francesco D&#39;Acunto](http://www.francescodacunto.com/)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>[Francesco D&#39;Acunto](http://www.francescodacunto.com/)</title>
-      <link>https://christophscheuch.github.io/authors/francesco-dacuntohttp/www.francescodacunto.com/</link>
+      <link>/authors/francesco-dacuntohttp/www.francescodacunto.com/</link>
     </image>
     
     <item>
       <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
+      <link>/publication/perceived-precautionary-savings/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/perceived-precautionary-savings/</guid>
       <description></description>
     </item>
     

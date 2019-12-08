@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/) | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
-      <atom:link href="https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
+      <atom:link href="/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/index.xml" rel="self" type="application/rss+xml" />
     <description>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</title>
-      <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
+      <link>/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
     </image>
     
     <item>
-      <title>Limits to Arbitrage in Markets with Stochastic Settlement Latency</title>
-      <link>https://christophscheuch.github.io/publication/stochastic-latency/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/stochastic-latency/</guid>
+      <title>Trust Takes Time: Limits to Arbitrage in Decentralized Markets</title>
+      <link>/publication/stochastic-latency/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/stochastic-latency/</guid>
       <description></description>
     </item>
     

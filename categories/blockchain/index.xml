@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christoph Scheuch</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Christoph Scheuch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <title>Blockchain | Christoph Scheuch</title>
+    <link>/categories/blockchain/</link>
+      <atom:link href="/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blockchain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Christoph Scheuch</title>
-      <link>/</link>
+      <title>Blockchain</title>
+      <link>/categories/blockchain/</link>
     </image>
-    
-    <item>
-      <title>Crowdfunding with Private Consumer Valuations</title>
-      <link>/publication/demand-uncertainty/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/demand-uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>/publication/perceived-precautionary-savings/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/perceived-precautionary-savings/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Distributed Ledger Technology and Settlement Latency</title>
@@ -74,22 +58,6 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Trust Takes Time: Limits to Arbitrage in Decentralized Markets</title>
-      <link>/publication/stochastic-latency/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/stochastic-latency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms</title>
-      <link>/publication/fishing-with-pearls/</link>
-      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fishing-with-pearls/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[Christoph Scheuch](https://christophscheuch.github.io/) | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
-      <atom:link href="https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
+      <atom:link href="/authors/christoph-scheuchhttps/christophscheuch.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>[Christoph Scheuch](https://christophscheuch.github.io/)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>[Christoph Scheuch](https://christophscheuch.github.io/)</title>
-      <link>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
+      <link>/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
     </image>
     
     <item>
       <title>Crowdfunding with Private Consumer Valuations</title>
-      <link>https://christophscheuch.github.io/publication/demand-uncertainty/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/demand-uncertainty/</guid>
+      <link>/publication/demand-uncertainty/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/demand-uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
+      <link>/publication/perceived-precautionary-savings/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/perceived-precautionary-savings/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Limits to Arbitrage in Markets with Stochastic Settlement Latency</title>
-      <link>https://christophscheuch.github.io/publication/stochastic-latency/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/stochastic-latency/</guid>
+      <title>Trust Takes Time: Limits to Arbitrage in Decentralized Markets</title>
+      <link>/publication/stochastic-latency/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/stochastic-latency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms</title>
-      <link>https://christophscheuch.github.io/publication/fishing-with-pearls/</link>
+      <link>/publication/fishing-with-pearls/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/fishing-with-pearls/</guid>
+      <guid>/publication/fishing-with-pearls/</guid>
       <description></description>
     </item>
     
