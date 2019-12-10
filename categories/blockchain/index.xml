@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain | Christoph Scheuch</title>
-    <link>/categories/blockchain/</link>
-      <atom:link href="/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/categories/blockchain/</link>
+      <atom:link href="https://christophscheuch.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <description>Blockchain</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Blockchain</title>
-      <link>/categories/blockchain/</link>
+      <link>https://christophscheuch.github.io/categories/blockchain/</link>
     </image>
     
     <item>
+      <title>Volatility in Cryptocurrency Markets</title>
+      <link>https://christophscheuch.github.io/post/settlement-latency/spotvolas/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/post/settlement-latency/spotvolas/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302159&#34; target=&#34;_blank&#34;&gt;Hautsch, et al. (2019)&lt;/a&gt;, we focus on the market for Bitcoin (BTC) against US Dollar (USD) and estimate the corresponding spotvolatilities for 16 different exchanges. In this note, I replicate the estimation procedure for the spotvolatilities of other cryptocurrencies, namely Ether (ETH), Litecoin (LTC), and Ripple (XRP) against USD.&lt;/p&gt;
+
+&lt;p&gt;Before I proceed to the results, I briefly sketch the estimation procedure. To estimate the spot volatility, I follow the approach of &lt;a href=&#34;https://www.jstor.org/stable/40388620&#34; target=&#34;_blank&#34;&gt;Kristensen (2010)&lt;/a&gt;. For each market $i$, asset $j$, and minute $t$, I estimate $\sigma_{i,j,t}^2$ by
+$$\widehat{{\sigma}_{i,j,t}}^2(h_T) = \sum\limits_{l=1}^\infty K\left(l - t, h_T\right)\left(b_{i,j,l} - b_{i,j,l-1}\right)^2,$$
+where $K\left(l - t, h_T\right)$ is a one-sided Gaussian kernel smoother with bandwidth $h_T$ and $b_{i,j,l}$ corresponds to the quoted bid price on market $i$ for asset $j$ at time $l$.
+The choice of the bandwidth $h_T$ involves a trade-off between the variance and the bias of the estimator. Using too many observations introduces a bias if the volatility is time-varying, whereas shrinking the estimation window through a lower bandwidth increases the variance of the estimator. &lt;a href=&#34;https://www.jstor.org/stable/40388620&#34; target=&#34;_blank&#34;&gt;Kristensen (2010)&lt;/a&gt; hence proposes to choose $h_T$ such that information on day $T-1$ is used for the estimation on day $T$, i.e., the bandwith on any day is the result of minimizing the integrated squared error of estimates on the previous day.&lt;/p&gt;
+
+&lt;p&gt;I employ the data that I collected together with my colleague &lt;a href=&#34;http://www.voigtstefan.me/&#34; target=&#34;_blank&#34;&gt;Stefan Voigt&lt;/a&gt;. Since January 2018, we gather the first 25 levels of all open buy and sell orders of a couple of exchanges on a minute level using our &lt;a href=&#34;https://github.com/christophscheuch/CryptoX&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt;. The spotvolatility estimation procedure from above, however, only rests on the first level of bids. To ensure comparability across asset pairs, I focus on exchanges in our sample that feature trading of all four asset pairs (Binance, Bbitfinex, Bitstamp, Cex, Gate, Kraken, Lykke, Poloniex, xBTCe).&lt;/p&gt;
+
+&lt;p&gt;Now, let us take a look at the resulting volatility estimates for all asset pairs. The app below shows the average daily spotvolatility estimate across all exchanges (solid lines) and corresponding range of average daily spotvolatility estimates (shaded areas). Overall, all four asset pairs exhibit a strong correlation over the last two years. Feel free to play around with the app by comparing asset pairs seperately or focussing on subperiods.&lt;/p&gt;
+
+&lt;p&gt;&lt;html&gt;
+&lt;head&gt;&lt;title&gt;Shiny App Iframe&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;iframe id=&#34;example1&#34; src=&#34;https://christophscheuch.shinyapps.io/Spotvolas/&#34; style=&#34;border: none; width: 100%; height: 850px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Distributed Ledger Technology and Settlement Latency</title>
-      <link>/post/settlement-latency/fundamentals/</link>
+      <link>https://christophscheuch.github.io/post/settlement-latency/fundamentals/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/settlement-latency/fundamentals/</guid>
+      <guid>https://christophscheuch.github.io/post/settlement-latency/fundamentals/</guid>
       <description>
 
 &lt;p&gt;In its essence, the distributed ledger technology (DLT) is a digital record-keeping system that allows for the verification, updating and storage of transfers of ownership without the need for a designated third party. It relies on a single ledger that is distributed among many different parties who are incentivized to ensure a truthful representation of the transaction history. Nakamoto first popularized the idea of DLTs in a financial context with the Bitcoin protocol and the underlying concept of blockchain. Nowadays, however, Bitcoin is just one of several hundred applications that use the blockchain technology, while other forms of DLTs, in particular directed acyclic graphs (DAG), are actively explored as well. In the following, we first describe the building blocks of DLT before we turn to a more detailed discussion of blockchains and DAGs.&lt;/p&gt;

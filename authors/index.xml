@@ -2,53 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Christoph Scheuch</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/authors/</link>
+      <atom:link href="https://christophscheuch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://christophscheuch.github.io/authors/</link>
     </image>
     
     <item>
-      <title>[Christoph Scheuch](https://christophscheuch.github.io/)</title>
-      <link>/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/christoph-scheuchhttps/christophscheuch.github.io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Francesco D&#39;Acunto](http://www.francescodacunto.com/)</title>
-      <link>/authors/francesco-dacuntohttp/www.francescodacunto.com/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/francesco-dacuntohttp/www.francescodacunto.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Michael Weber](http://faculty.chicagobooth.edu/michael.weber/)</title>
-      <link>/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Thomas Rauter](http://www.thomas-rauter.com/)</title>
-      <link>/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-rauterhttp/www.thomas-rauter.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <link>https://christophscheuch.github.io/authors/admin/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student at the Vienna Graduate School of Finance. My research interests focus on the economics of technological innovations in the financial industry. I recently released a paper that shows how blockchain-based settlement may introduce limits to arbitrage in cross-market trading. In another paper, I analyze how consumers react to the availability of overdraft facilities through mobile banking apps. I currently investigate the potential of crowdfunding mechanisms to elicit demand information and improve the screening of viable projects.&lt;/p&gt;
 
 &lt;p&gt;Before starting my PhD studies, I was a research assistant in the field of labor economics at the Institute for Advanced Studies and an intern at Ithuba Capital and the Austrian Financial Market Authority.&lt;/p&gt;
@@ -56,26 +24,58 @@
     </item>
     
     <item>
+      <title>[Christoph Scheuch](https://christophscheuch.github.io/)</title>
+      <link>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Francesco D&#39;Acunto](http://www.francescodacunto.com/)</title>
+      <link>https://christophscheuch.github.io/authors/francesco-dacuntohttp/www.francescodacunto.com/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/francesco-dacuntohttp/www.francescodacunto.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Michael Weber](http://faculty.chicagobooth.edu/michael.weber/)</title>
+      <link>https://christophscheuch.github.io/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Thomas Rauter](http://www.thomas-rauter.com/)</title>
+      <link>https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</title>
-      <link>/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
+      <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</guid>
+      <guid>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Stefan Voigt](https://voigtstefan.github.io/)</title>
-      <link>/authors/stefan-voigthttps/voigtstefan.github.io/</link>
+      <link>https://christophscheuch.github.io/authors/stefan-voigthttps/voigtstefan.github.io/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/stefan-voigthttps/voigtstefan.github.io/</guid>
+      <guid>https://christophscheuch.github.io/authors/stefan-voigthttps/voigtstefan.github.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Alexander Mürmann](https://www.wu.ac.at/finance/people/faculty/muermann/)</title>
-      <link>/authors/alexander-murmannhttps/www.wu.ac.at/finance/people/faculty/muermann/</link>
+      <link>https://christophscheuch.github.io/authors/alexander-murmannhttps/www.wu.ac.at/finance/people/faculty/muermann/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/alexander-murmannhttps/www.wu.ac.at/finance/people/faculty/muermann/</guid>
+      <guid>https://christophscheuch.github.io/authors/alexander-murmannhttps/www.wu.ac.at/finance/people/faculty/muermann/</guid>
       <description></description>
     </item>
     

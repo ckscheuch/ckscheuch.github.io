@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[Thomas Rauter](http://www.thomas-rauter.com/) | Christoph Scheuch</title>
-    <link>/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
-      <atom:link href="/authors/thomas-rauterhttp/www.thomas-rauter.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
+      <atom:link href="https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/index.xml" rel="self" type="application/rss+xml" />
     <description>[Thomas Rauter](http://www.thomas-rauter.com/)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>[Thomas Rauter](http://www.thomas-rauter.com/)</title>
-      <link>/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
+      <link>https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
     </image>
     
     <item>
       <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>/publication/perceived-precautionary-savings/</link>
+      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/perceived-precautionary-savings/</guid>
+      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms</title>
-      <link>/publication/fishing-with-pearls/</link>
+      <link>https://christophscheuch.github.io/publication/fishing-with-pearls/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fishing-with-pearls/</guid>
+      <guid>https://christophscheuch.github.io/publication/fishing-with-pearls/</guid>
       <description></description>
     </item>
     
