@@ -5,12 +5,20 @@
     <link>https://christophscheuch.github.io/categories/</link>
       <atom:link href="https://christophscheuch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2019</copyright><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://christophscheuch.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Asset Pricing</title>
+      <link>https://christophscheuch.github.io/categories/asset-pricing/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/categories/asset-pricing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blockchain</title>
