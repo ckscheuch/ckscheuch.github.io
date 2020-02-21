@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/publication/</link>
-      <atom:link href="https://christophscheuch.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Publications</title>
-      <link>https://christophscheuch.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Crowdfunding and Demand Uncertainty</title>
-      <link>https://christophscheuch.github.io/publication/demand-uncertainty/</link>
+      <link>/publication/demand-uncertainty/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/demand-uncertainty/</guid>
+      <guid>/publication/demand-uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
+      <link>/publication/perceived-precautionary-savings/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
+      <guid>/publication/perceived-precautionary-savings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets</title>
-      <link>https://christophscheuch.github.io/publication/stochastic-latency/</link>
+      <link>/publication/stochastic-latency/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/stochastic-latency/</guid>
+      <guid>/publication/stochastic-latency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms</title>
-      <link>https://christophscheuch.github.io/publication/fishing-with-pearls/</link>
+      <link>/publication/fishing-with-pearls/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/fishing-with-pearls/</guid>
+      <guid>/publication/fishing-with-pearls/</guid>
       <description></description>
     </item>
     
