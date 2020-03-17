@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="PhD Candidate">
+  <meta name="description" content="Head of BI &amp; Data Science">
 
   
   <link rel="alternate" hreflang="en-us" href="https://christophscheuch.github.io/authors/admin/">
@@ -120,7 +120,7 @@
   <meta property="og:site_name" content="Christoph Scheuch">
   <meta property="og:url" content="https://christophscheuch.github.io/authors/admin/">
   <meta property="og:title" content=" | Christoph Scheuch">
-  <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="https://christophscheuch.github.io/img/icon-192.png">
+  <meta property="og:description" content="Head of BI &amp; Data Science"><meta property="og:image" content="https://christophscheuch.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://christophscheuch.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-02-28T00:00:00&#43;00:00">
@@ -161,7 +161,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -250,7 +251,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Research</span></a>
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
         </li>
 
         
@@ -279,7 +280,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#publications"><span>Research</span></a>
         </li>
 
         
@@ -366,9 +367,16 @@
         
 
       
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
 
         
 
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
         
 
         
@@ -418,8 +426,14 @@
 
       <div class="portrait-title">
         <h2>Christoph Scheuch</h2>
-        <h3>PhD Candidate</h3>
+        <h3>Head of BI &amp; Data Science</h3>
 
+        
+        <h3>
+          <a href="https://www.wikifolio.com" target="_blank" rel="noopener">
+          <span>wikifolio Financial Technologies</span>
+          </a>
+        </h3>
         
         <h3>
           <a href="http://www.vgsf.ac.at/welcome/" target="_blank" rel="noopener">
@@ -542,7 +556,9 @@
     
     
 
-    <p>I am a PhD candidate at the Vienna Graduate School of Finance. My research focuses on the economics of technological innovations in the financial industry. I recently released a paper that shows how blockchain-based settlement introduces limits to arbitrage in cross-market trading. In another paper, I analyze how consumers react to the availability of overdraft facilities through mobile banking apps. I currently investigate the potential of crowdfunding mechanisms to elicit demand information and improve the screening of viable projects.</p>
+    <p>I recently joined <a href="https://www.wikifolio.com" target="_blank">wikifolio</a> as Head of Business Intelligence and Data Science.</p>
+
+<p>I am also a PhD candidate at the Vienna Graduate School of Finance where my research focuses on the economics of technological innovations in the financial industry. One of my papers shows how blockchain-based settlement introduces limits to arbitrage in cross-market trading. In another paper, I analyze how consumers react to the availability of overdraft facilities through mobile banking apps. I currently investigate the potential of crowdfunding mechanisms to elicit demand information and improve the screening of viable projects under complex valuation structures.</p>
 
 <p>Before starting my PhD studies, I was a research assistant in the field of labor economics at the <a href="https://www.ihs.ac.at/de/" target="_blank">Institute for Advanced Studies</a> and an intern at <a href="https://www.ithubacapital.com/home.html" target="_blank">Ithuba Capital</a> and the Austrian <a href="https://www.fma.gv.at/" target="_blank">Financial Market Authority</a>.</p>
 
@@ -554,9 +570,9 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>R / tidyverse</li>
-          
           <li>Data Science</li>
+          
+          <li>Tidyverse</li>
           
           <li>FinTech</li>
           
@@ -693,11 +709,46 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -707,7 +758,6 @@
 
     
     
-
     
     
     
@@ -715,12 +765,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.368ad8701ddf69c34950016f6435139b.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
