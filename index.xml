@@ -5,12 +5,20 @@
     <link>https://christophscheuch.github.io/</link>
       <atom:link href="https://christophscheuch.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Christoph Scheuch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Christoph Scheuch</title>
       <link>https://christophscheuch.github.io/</link>
     </image>
+    
+    <item>
+      <title>Building Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets</title>
+      <link>https://christophscheuch.github.io/publication/settlement-latency/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/publication/settlement-latency/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tidy Asset Pricing - Part V: The Fama-French 3-Factor Model</title>
@@ -5706,14 +5714,6 @@ n
     </item>
     
     <item>
-      <title>Crowdfunding and Demand Uncertainty</title>
-      <link>https://christophscheuch.github.io/publication/demand-uncertainty/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/demand-uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tidy Asset Pricing - Part II: Beta and Stock Returns</title>
       <link>https://christophscheuch.github.io/post/asset-pricing/beta/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
@@ -10332,14 +10332,6 @@ n
       <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets</title>
-      <link>https://christophscheuch.github.io/publication/stochastic-latency/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/stochastic-latency/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,36 @@
     <link>https://christophscheuch.github.io/authors/</link>
       <atom:link href="https://christophscheuch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://christophscheuch.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>[Christoph Scheuch](https://christophscheuch.github.io/)</title>
+      <link>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</title>
+      <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Stefan Voigt](https://voigtstefan.github.io/)</title>
+      <link>https://christophscheuch.github.io/authors/stefan-voigthttps/voigtstefan.github.io/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/authors/stefan-voigthttps/voigtstefan.github.io/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,18 +43,10 @@
       <guid>https://christophscheuch.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I recently joined &lt;a href=&#34;https://www.wikifolio.com&#34; target=&#34;_blank&#34;&gt;wikifolio&lt;/a&gt; as Head of Business Intelligence and Data Science.&lt;/p&gt;
 
-&lt;p&gt;I am also a PhD candidate at the Vienna Graduate School of Finance where my research focuses on the economics of technological innovations in the financial industry. One of my papers shows how blockchain-based settlement introduces limits to arbitrage in cross-market trading. In another paper, I analyze how consumers react to the availability of overdraft facilities through mobile banking apps. I currently investigate the potential of crowdfunding mechanisms to elicit demand information and improve the screening of viable projects under complex valuation structures.&lt;/p&gt;
+&lt;p&gt;I am also a PhD candidate at the &lt;a href=&#34;https://www.vgsf.ac.at/&#34; target=&#34;_blank&#34;&gt;Vienna Graduate School of Finance&lt;/a&gt; where my research focuses on the economics of technological innovations in the financial sector. One of my papers shows how blockchain-based settlement introduces limits to arbitrage in cross-market trading. In another paper, I analyze how consumers react to the introduction of overdraft facilities through a mobile banking app. I currently investigate the potential of crowdfunding mechanisms to elicit demand information and improve the screening of viable projects under different valuation structures.&lt;/p&gt;
 
 &lt;p&gt;Before starting my PhD studies, I was a research assistant in the field of labor economics at the &lt;a href=&#34;https://www.ihs.ac.at/de/&#34; target=&#34;_blank&#34;&gt;Institute for Advanced Studies&lt;/a&gt; and an intern at &lt;a href=&#34;https://www.ithubacapital.com/home.html&#34; target=&#34;_blank&#34;&gt;Ithuba Capital&lt;/a&gt; and the Austrian &lt;a href=&#34;https://www.fma.gv.at/&#34; target=&#34;_blank&#34;&gt;Financial Market Authority&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>[Christoph Scheuch](https://christophscheuch.github.io/)</title>
-      <link>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/authors/christoph-scheuchhttps/christophscheuch.github.io/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -54,22 +70,6 @@
       <link>https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://christophscheuch.github.io/authors/thomas-rauterhttp/www.thomas-rauter.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</title>
-      <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Stefan Voigt](https://voigtstefan.github.io/)</title>
-      <link>https://christophscheuch.github.io/authors/stefan-voigthttps/voigtstefan.github.io/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/authors/stefan-voigthttps/voigtstefan.github.io/</guid>
       <description></description>
     </item>
     
