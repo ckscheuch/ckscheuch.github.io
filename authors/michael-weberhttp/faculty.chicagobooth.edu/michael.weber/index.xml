@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[Michael Weber](http://faculty.chicagobooth.edu/michael.weber/) | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</link>
-      <atom:link href="https://christophscheuch.github.io/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</link>
+      <atom:link href="/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/index.xml" rel="self" type="application/rss+xml" />
     <description>[Michael Weber](http://faculty.chicagobooth.edu/michael.weber/)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>[Michael Weber](http://faculty.chicagobooth.edu/michael.weber/)</title>
-      <link>https://christophscheuch.github.io/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</link>
+      <link>/authors/michael-weberhttp/faculty.chicagobooth.edu/michael.weber/</link>
     </image>
     
     <item>
       <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
+      <link>/publication/perceived-precautionary-savings/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
+      <guid>/publication/perceived-precautionary-savings/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/tags/</link>
-      <atom:link href="https://christophscheuch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://christophscheuch.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Asset Pricing</title>
-      <link>https://christophscheuch.github.io/tags/asset-pricing/</link>
+      <link>/tags/asset-pricing/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/tags/asset-pricing/</guid>
+      <guid>/tags/asset-pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random</title>
-      <link>https://christophscheuch.github.io/tags/random/</link>
+      <link>/tags/random/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/tags/random/</guid>
+      <guid>/tags/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>https://christophscheuch.github.io/tags/blockchain/</link>
+      <link>/tags/blockchain/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/tags/blockchain/</guid>
+      <guid>/tags/blockchain/</guid>
       <description></description>
     </item>
     
