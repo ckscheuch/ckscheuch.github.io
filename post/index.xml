@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Christoph Scheuch</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/post/</link>
+      <atom:link href="https://christophscheuch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://christophscheuch.github.io/post/</link>
     </image>
     
     <item>
       <title>Tidy Asset Pricing - Part V: The Fama-French 3-Factor Model</title>
-      <link>/post/asset-pricing/fama-french-3-factors/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/fama-french-3-factors/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/fama-french-3-factors/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/fama-french-3-factors/</guid>
       <description>&lt;dl&gt;
 
 &lt;p&gt;This note is an effort to replicate the famous &lt;a href=&#34;https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model&#34;&gt;Fama-French three-factor model&lt;/a&gt;, in particular the three factors that enter its equation: the market factor, the size factor (small firms outperform larger firms), and the value factor (firms with high book-to-market equity ratios outperform firms with low ratios). Throughout this note, I build on earlier posts that explored empirical asset pricing approaches in a similar direction. Namely, &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/crsp-sample/&#34;&gt;I constructed the CRSP stock return sample&lt;/a&gt;, &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/beta/&#34;&gt;I estimated stock-specific market betas&lt;/a&gt;, and &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/size/&#34;&gt;I analyzed the relation between stock returns and size&lt;/a&gt; and &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/value/&#34;&gt;I replicated the value premium&lt;/a&gt;. I keep the description of individual steps very short and refer to these notes for more details.&lt;/p&gt;
@@ -825,9 +825,9 @@ hml_ff
     
     <item>
       <title>Tidy Asset Pricing - Part IV: The Value Premium</title>
-      <link>/post/asset-pricing/value/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/value/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/value/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/value/</guid>
       <description>&lt;dl&gt;
 &lt;p&gt;In this note, I explore the positive relation between the book-to-market (BM) ratio and expected stock returns – called the value premium – following &lt;a href=&#34;https://www.wiley.com/en-us/Empirical+Asset+Pricing%3A+The+Cross+Section+of+Stock+Returns-p-9781118095041&#34;&gt;Bali, Engle and Murray&lt;/a&gt;. In three earlier notes, I first &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/crsp-sample/&#34;&gt;prepared the CRSP sample&lt;/a&gt; in R, &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/beta/&#34;&gt;estimated and analyzed market betas&lt;/a&gt; and &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/size/&#34;&gt;analyzed the relation between firm size and stock returns&lt;/a&gt; using the same data. I do not go into the theoretical foundations of the value premium, but rather focus on its estimation in a tidy manner. The usual disclaimer applies, so the text below references an opinion and is for information purposes only and I do not intend to provide any investment advice. The code below replicates most of the results of Bali et al. up to a few basis points if I restrict my data to their sample period. If you spot any mistakes or want to share any suggestions for better implementation, just drop a comment below.&lt;/p&gt;
 &lt;p&gt;I mainly use the following packages throughout this note:&lt;/p&gt;
@@ -3414,9 +3414,9 @@ n
     
     <item>
       <title>Tidy Asset Pricing - Part III: Size and Stock Returns</title>
-      <link>/post/asset-pricing/size/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/size/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/size/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/size/</guid>
       <description>&lt;dl&gt;
 &lt;p&gt;In this note, I explore the relation between firm size and stock returns following the methodology outlined in &lt;a href=&#34;https://www.wiley.com/en-us/Empirical+Asset+Pricing%3A+The+Cross+Section+of+Stock+Returns-p-9781118095041&#34;&gt;Bali, Engle and Murray&lt;/a&gt;. In two earlier notes, I first &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/crsp-sample/&#34;&gt;prepared the CRSP sample&lt;/a&gt; in R and then &lt;a href=&#34;https://christophscheuch.github.io/post/asset-pricing/beta/&#34;&gt;estimated and analyzed market betas&lt;/a&gt; using the same data. I do not go into the theoretical foundations of the size effect, but rather focus on its estimation in a tidy manner. I just want to mention that the size effect refers to the observation that stocks with large market capitalization tend to have lower returns than stocks with small market capitalizations (e.g., &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1992.tb04398.x&#34;&gt;Fama and French, 1992&lt;/a&gt;). The usual disclaimer applies, so the text below references an opinion and is for information purposes only and I do not intend to provide any investment advice. The code below replicates most of the results of Bali et al. up to a few basis points if I restrict my data to their sample period. If you spot any mistakes or want to share any suggestions for better implementation, just drop a comment below.&lt;/p&gt;
 &lt;p&gt;I mainly use the following packages throughout this note:&lt;/p&gt;
@@ -5707,9 +5707,9 @@ n
     
     <item>
       <title>Tidy Asset Pricing - Part II: Beta and Stock Returns</title>
-      <link>/post/asset-pricing/beta/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/beta/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/beta/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/beta/</guid>
       <description>&lt;dl&gt;
 &lt;p&gt;This note proposes an estimation and evaluation procedure for market betas following &lt;a href=&#34;https://www.wiley.com/en-us/Empirical+Asset+Pricing%3A+The+Cross+Section+of+Stock+Returns-p-9781118095041&#34;&gt;Bali, Engle and Murray&lt;/a&gt;. I do not go into details about the foundations of market beta, but simply refer to any treatment of the Capital Asset Pricing Model (&lt;a href=&#34;https://en.wikipedia.org/wiki/Capital_asset_pricing_model&#34;&gt;CAPM&lt;/a&gt;). This note has two objectives: the first one is to implement several approaches to estimate a stock’s beta in a tidy manner and to empirically examine these measures. The second objective is to analyze the cross-sectional relation between stock returns and market beta. The text below references an opinion and is for information purposes only. I do not intend to provide any investment advice.&lt;/p&gt;
 &lt;p&gt;I mainly use the following packages throughout this note:&lt;/p&gt;
@@ -10321,9 +10321,9 @@ n
     
     <item>
       <title>Seasonality in the DAX</title>
-      <link>/post/asset-pricing/dax-seasonality/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/dax-seasonality/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/dax-seasonality/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/dax-seasonality/</guid>
       <description>&lt;dl&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.seasonalcharts.de/classics_dax.html&#34;&gt;Seasonalcharts.de&lt;/a&gt; claims that stock indices exhibit persistent seasonality that may be exploited through an appropriate trading strategy. As part of a job application, I had to replicate the seasonal pattern for the DAX and then test whether this pattern entails a profitable trading strategy. To sum up, I indeed find that a trading strategy that holds the index only over a specific season outperforms the market significantly, but these results might be driven by a few outliers. The text below references an opinion and is for information purposes only. I do not intend to provide any investment advice.&lt;/p&gt;
@@ -10890,9 +10890,9 @@ dax_monthly %&amp;gt;%
     
     <item>
       <title>Tidy Asset Pricing - Part I: The CRSP Sample in R</title>
-      <link>/post/asset-pricing/crsp-sample/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/crsp-sample/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/crsp-sample/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/crsp-sample/</guid>
       <description>&lt;dl&gt;
 
 &lt;p&gt;As a newbie to the empirical asset pricing literature, I found it quite hard to fully grasp how results come about solely relying on the data descriptions in the corresponding papers. Fortunately, &lt;a href=&#34;https://www.wiley.com/en-us/Empirical+Asset+Pricing%3A+The+Cross+Section+of+Stock+Returns-p-9781118095041&#34;&gt;Bali, Engle and Murray&lt;/a&gt; provide an excellent textbook that not only provides a comprehensive overview of the empirical research on the cross-section of expected returns, but also offers detailed description of common practices in sample construction and methodology. In this series of notes, I replicate the main results of their textbook in R. Moreover, I try to implement all analyses in a tidy manner using mainly packages beloning to the &lt;code&gt;tidyverse&lt;/code&gt; family since it’s fun and fairly transparent.&lt;/p&gt;
@@ -11222,9 +11222,9 @@ write_rds(crsp_daily, &amp;quot;data/crsp_daily.rds&amp;quot;)&lt;/code&gt;&lt;/
     
     <item>
       <title>Volatility in Cryptocurrency Markets</title>
-      <link>/post/settlement-latency/spotvolas/</link>
+      <link>https://christophscheuch.github.io/post/settlement-latency/spotvolas/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/settlement-latency/spotvolas/</guid>
+      <guid>https://christophscheuch.github.io/post/settlement-latency/spotvolas/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302159&#34; target=&#34;_blank&#34;&gt;Hautsch, et al. (2019)&lt;/a&gt;, we focus on the market for Bitcoin (BTC) against US Dollar (USD) and estimate the corresponding spotvolatilities for 16 different exchanges. In this note, I replicate the estimation procedure for the spotvolatilities of other cryptocurrencies, namely Ether (ETH), Litecoin (LTC), and Ripple (XRP) against USD.&lt;/p&gt;
 
 &lt;p&gt;Before I proceed to the results, I briefly sketch the estimation procedure. To estimate the spot volatility, I follow the approach of &lt;a href=&#34;https://www.jstor.org/stable/40388620&#34; target=&#34;_blank&#34;&gt;Kristensen (2010)&lt;/a&gt;. For each market $i$, asset $j$, and minute $t$, I estimate $\sigma_{i,j,t}^2$ by
@@ -11247,9 +11247,9 @@ The choice of the bandwidth $h_T$ involves a trade-off between the variance and 
     
     <item>
       <title>Distributed Ledger Technology and Settlement Latency</title>
-      <link>/post/settlement-latency/fundamentals/</link>
+      <link>https://christophscheuch.github.io/post/settlement-latency/fundamentals/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/settlement-latency/fundamentals/</guid>
+      <guid>https://christophscheuch.github.io/post/settlement-latency/fundamentals/</guid>
       <description>
 
 &lt;p&gt;In its essence, the distributed ledger technology (DLT) is a digital record-keeping system that allows for the verification, updating and storage of transfers of ownership without the need for a designated third party. It relies on a single ledger that is distributed among many different parties who are incentivized to ensure a truthful representation of the transaction history. Nakamoto first popularized the idea of DLTs in a financial context with the Bitcoin protocol and the underlying concept of blockchain. Nowadays, however, Bitcoin is just one of several hundred applications that use the blockchain technology, while other forms of DLTs, in particular directed acyclic graphs (DAG), are actively explored as well. In the following, we first describe the building blocks of DLT before we turn to a more detailed discussion of blockchains and DAGs.&lt;/p&gt;

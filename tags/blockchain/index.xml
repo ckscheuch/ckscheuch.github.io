@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain | Christoph Scheuch</title>
-    <link>/tags/blockchain/</link>
-      <atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/tags/blockchain/</link>
+      <atom:link href="https://christophscheuch.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <description>Blockchain</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Blockchain</title>
-      <link>/tags/blockchain/</link>
+      <link>https://christophscheuch.github.io/tags/blockchain/</link>
     </image>
     
     <item>
       <title>Volatility in Cryptocurrency Markets</title>
-      <link>/post/settlement-latency/spotvolas/</link>
+      <link>https://christophscheuch.github.io/post/settlement-latency/spotvolas/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/settlement-latency/spotvolas/</guid>
+      <guid>https://christophscheuch.github.io/post/settlement-latency/spotvolas/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302159&#34; target=&#34;_blank&#34;&gt;Hautsch, et al. (2019)&lt;/a&gt;, we focus on the market for Bitcoin (BTC) against US Dollar (USD) and estimate the corresponding spotvolatilities for 16 different exchanges. In this note, I replicate the estimation procedure for the spotvolatilities of other cryptocurrencies, namely Ether (ETH), Litecoin (LTC), and Ripple (XRP) against USD.&lt;/p&gt;
 
 &lt;p&gt;Before I proceed to the results, I briefly sketch the estimation procedure. To estimate the spot volatility, I follow the approach of &lt;a href=&#34;https://www.jstor.org/stable/40388620&#34; target=&#34;_blank&#34;&gt;Kristensen (2010)&lt;/a&gt;. For each market $i$, asset $j$, and minute $t$, I estimate $\sigma_{i,j,t}^2$ by
@@ -39,9 +39,9 @@ The choice of the bandwidth $h_T$ involves a trade-off between the variance and 
     
     <item>
       <title>Distributed Ledger Technology and Settlement Latency</title>
-      <link>/post/settlement-latency/fundamentals/</link>
+      <link>https://christophscheuch.github.io/post/settlement-latency/fundamentals/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/settlement-latency/fundamentals/</guid>
+      <guid>https://christophscheuch.github.io/post/settlement-latency/fundamentals/</guid>
       <description>
 
 &lt;p&gt;In its essence, the distributed ledger technology (DLT) is a digital record-keeping system that allows for the verification, updating and storage of transfers of ownership without the need for a designated third party. It relies on a single ledger that is distributed among many different parties who are incentivized to ensure a truthful representation of the transaction history. Nakamoto first popularized the idea of DLTs in a financial context with the Bitcoin protocol and the underlying concept of blockchain. Nowadays, however, Bitcoin is just one of several hundred applications that use the blockchain technology, while other forms of DLTs, in particular directed acyclic graphs (DAG), are actively explored as well. In the following, we first describe the building blocks of DLT before we turn to a more detailed discussion of blockchains and DAGs.&lt;/p&gt;

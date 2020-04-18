@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random | Christoph Scheuch</title>
-    <link>/tags/random/</link>
-      <atom:link href="/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/tags/random/</link>
+      <atom:link href="https://christophscheuch.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <description>Random</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>Random</title>
-      <link>/tags/random/</link>
+      <link>https://christophscheuch.github.io/tags/random/</link>
     </image>
     
     <item>
       <title>Seasonality in the DAX</title>
-      <link>/post/asset-pricing/dax-seasonality/</link>
+      <link>https://christophscheuch.github.io/post/asset-pricing/dax-seasonality/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/asset-pricing/dax-seasonality/</guid>
+      <guid>https://christophscheuch.github.io/post/asset-pricing/dax-seasonality/</guid>
       <description>&lt;dl&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.seasonalcharts.de/classics_dax.html&#34;&gt;Seasonalcharts.de&lt;/a&gt; claims that stock indices exhibit persistent seasonality that may be exploited through an appropriate trading strategy. As part of a job application, I had to replicate the seasonal pattern for the DAX and then test whether this pattern entails a profitable trading strategy. To sum up, I indeed find that a trading strategy that holds the index only over a specific season outperforms the market significantly, but these results might be driven by a few outliers. The text below references an opinion and is for information purposes only. I do not intend to provide any investment advice.&lt;/p&gt;

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Christoph Scheuch</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/publication_types/3/</link>
+      <atom:link href="https://christophscheuch.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>https://christophscheuch.github.io/publication_types/3/</link>
     </image>
     
     <item>
       <title>Crowdfunding and Demand Uncertainty</title>
-      <link>/publication/demand-uncertainty/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/demand-uncertainty/</guid>
+      <link>https://christophscheuch.github.io/publication/demand-uncertainty/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophscheuch.github.io/publication/demand-uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets</title>
-      <link>/publication/settlement-latency/</link>
+      <link>https://christophscheuch.github.io/publication/settlement-latency/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/settlement-latency/</guid>
+      <guid>https://christophscheuch.github.io/publication/settlement-latency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceived Precautionary Savings Motives: Evidence from FinTech</title>
-      <link>/publication/perceived-precautionary-savings/</link>
+      <link>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/perceived-precautionary-savings/</guid>
+      <guid>https://christophscheuch.github.io/publication/perceived-precautionary-savings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms</title>
-      <link>/publication/fishing-with-pearls/</link>
+      <link>https://christophscheuch.github.io/publication/fishing-with-pearls/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fishing-with-pearls/</guid>
+      <guid>https://christophscheuch.github.io/publication/fishing-with-pearls/</guid>
       <description></description>
     </item>
     

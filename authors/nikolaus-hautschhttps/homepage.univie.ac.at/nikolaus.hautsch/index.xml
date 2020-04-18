@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/) | Christoph Scheuch</title>
-    <link>/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
-      <atom:link href="/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
+      <atom:link href="https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/index.xml" rel="self" type="application/rss+xml" />
     <description>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>[Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)</title>
-      <link>/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
+      <link>https://christophscheuch.github.io/authors/nikolaus-hautschhttps/homepage.univie.ac.at/nikolaus.hautsch/</link>
     </image>
     
     <item>
       <title>Building Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets</title>
-      <link>/publication/settlement-latency/</link>
+      <link>https://christophscheuch.github.io/publication/settlement-latency/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/settlement-latency/</guid>
+      <guid>https://christophscheuch.github.io/publication/settlement-latency/</guid>
       <description></description>
     </item>
     
