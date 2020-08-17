@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Christoph Scheuch</title>
-    <link>https://christophscheuch.github.io/categories/</link>
-      <atom:link href="https://christophscheuch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christophscheuch.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://christophscheuch.github.io/categories/</link>
+      <link>/categories/</link>
     </image>
     
     <item>
+      <title>R, ESG</title>
+      <link>/categories/r-esg/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/categories/r-esg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asset Pricing</title>
-      <link>https://christophscheuch.github.io/categories/asset-pricing/</link>
+      <link>/categories/asset-pricing/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/categories/asset-pricing/</guid>
+      <guid>/categories/asset-pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>https://christophscheuch.github.io/categories/blockchain/</link>
+      <link>/categories/blockchain/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophscheuch.github.io/categories/blockchain/</guid>
+      <guid>/categories/blockchain/</guid>
       <description></description>
     </item>
     
