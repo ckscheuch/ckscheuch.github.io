@@ -31,7 +31,7 @@
   <meta name="description" content="How to scrap environmental, social and governance (ESG) risk scores from Yahoo Finance using R">
 
   
-  <link rel="alternate" hreflang="en-us" href="/post/r-stuff/scraping-esg-data/">
+  <link rel="alternate" hreflang="en-us" href="https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/">
 
   
 
@@ -136,7 +136,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/post/r-stuff/scraping-esg-data/">
+  <link rel="canonical" href="https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/">
 
   
   
@@ -152,10 +152,10 @@
   <meta property="twitter:creator" content="@KriseScheuch">
   
   <meta property="og:site_name" content="Christoph Scheuch">
-  <meta property="og:url" content="/post/r-stuff/scraping-esg-data/">
+  <meta property="og:url" content="https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/">
   <meta property="og:title" content="Scraping ESG Data from Yahoo Finance with R | Christoph Scheuch">
-  <meta property="og:description" content="How to scrap environmental, social and governance (ESG) risk scores from Yahoo Finance using R"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="How to scrap environmental, social and governance (ESG) risk scores from Yahoo Finance using R"><meta property="og:image" content="https://christophscheuch.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://christophscheuch.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-08-17T00:00:00&#43;00:00">
@@ -186,7 +186,7 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/post/r-stuff/scraping-esg-data/"
+    "@id": "https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/"
   },
   "headline": "Scraping ESG Data from Yahoo Finance with R",
   
@@ -203,7 +203,7 @@
     "name": "Christoph Scheuch",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/icon-512.png"
+      "url": "https://christophscheuch.github.io/img/icon-512.png"
     }
   },
   "description": "How to scrap environmental, social and governance (ESG) risk scores from Yahoo Finance using R"
@@ -574,7 +574,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/r-esg/">R, ESG</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/categories/r/">R</a></span>
   
 
 </div>
@@ -605,7 +605,7 @@
       <dl>
 
 <p>In this post, I provide a recollection of my effort to scrap Environmental, Social and Governance (ESG) information from Yahoo Finance (e.g., <a href="https://finance.yahoo.com/quote/AAPL/sustainability?p=AAPL">Apple</a>). In particular, Yahoo Finance provides total ESG scores, environment, social and governance risk scores, as well as controversy levels, all compiled by <a href="https://www.sustainalytics.com/">Sustainalytics</a> which is by now owned by Morningstar. My code builds on the walk-through by <a href="https://www.kylerudden.com/blog/scraping-esg-scores/">Kyle Ruden</a>, which I adapted to the current page structure of Yahoo Finance and my own coding style. In addition, I added a few steps that I, as web scraping newbie, had to look up while going through his guide.</p>
-<p>To begin with, I want to urge you to read at least the legal and ethical considerations put forward by <a href="https://www.sustainalytics.com/">Kyle</a>. Most importantly, I want to mention that, when performing web scraping tasks, it is both good practice and often required to set a custom user agent request header to identify yourself, as well as sending requests at a modest rate to ‘smell like a human’. I consider both of these key aspects in my code below.</p>
+<p>To begin with, I want to urge you to read at least the legal and ethical considerations put forward by <a href="https://www.kylerudden.com/blog/scraping-esg-scores/">Kyle</a>. Most importantly, I want to mention that, when performing web scraping tasks, it is both good practice and often required to set a custom user agent request header to identify yourself, as well as sending requests at a modest rate to ‘smell like a human’. I consider both of these key aspects in my code below.</p>
 <p>Throughout this note, I rely on the following packages:</p>
 <pre class="r"><code>library(tidyverse) # overall grammar
 library(tidytext)  # only for reorder_within function
@@ -867,7 +867,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/r-esg/">R, ESG</a>
+  <a class="badge badge-light" href="/tags/r/">R</a>
   
 </div>
 
@@ -884,7 +884,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/r-stuff/scraping-esg-data/&amp;text=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/&amp;text=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -897,7 +897,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/r-stuff/scraping-esg-data/&amp;t=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/&amp;t=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -910,7 +910,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
       
       
       <li>
-        <a href="mailto:?subject=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R&amp;body=/post/r-stuff/scraping-esg-data/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R&amp;body=https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -923,7 +923,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/r-stuff/scraping-esg-data/&amp;title=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/&amp;title=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -936,7 +936,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R%20/post/r-stuff/scraping-esg-data/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R%20https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -949,7 +949,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/r-stuff/scraping-esg-data/&amp;title=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/&amp;title=Scraping%20ESG%20Data%20from%20Yahoo%20Finance%20with%20R" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -992,7 +992,7 @@ tbl.ESGInfo &lt;- tbl.Symbols %&gt;%
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Christoph Scheuch</a></h5>
+      <h5 class="card-title"><a href="https://christophscheuch.github.io/">Christoph Scheuch</a></h5>
       <h6 class="card-subtitle">Head of BI &amp; Data Science</h6>
       <p class="card-text">My interests include Data Science, R and FinTech stuff.</p>
       <ul class="network-icon" aria-hidden="true">

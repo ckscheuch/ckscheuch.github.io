@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R | Christoph Scheuch</title>
-    <link>/tags/r/</link>
-      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christophscheuch.github.io/tags/r/</link>
+      <atom:link href="https://christophscheuch.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christoph Scheuch 2020</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://christophscheuch.github.io/img/icon-192.png</url>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://christophscheuch.github.io/tags/r/</link>
     </image>
     
     <item>
-      <title>Scraping ESG Data from Yahoo Finance With R</title>
-      <link>/post/r-stuff/scraping-esg-data/</link>
+      <title>Scraping ESG Data from Yahoo Finance with R</title>
+      <link>https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/r-stuff/scraping-esg-data/</guid>
+      <guid>https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/</guid>
       <description>&lt;dl&gt;
 
 &lt;p&gt;In this post, I provide a recollection of my effort to scrap Environmental, Social and Governance (ESG) information from Yahoo Finance (e.g., &lt;a href=&#34;https://finance.yahoo.com/quote/AAPL/sustainability?p=AAPL&#34;&gt;Apple&lt;/a&gt;). In particular, Yahoo Finance provides total ESG scores, environment, social and governance risk scores, as well as controversy levels, all compiled by &lt;a href=&#34;https://www.sustainalytics.com/&#34;&gt;Sustainalytics&lt;/a&gt; which is by now owned by Morningstar. My code builds on the walk-through by &lt;a href=&#34;https://www.kylerudden.com/blog/scraping-esg-scores/&#34;&gt;Kyle Ruden&lt;/a&gt;, which I adapted to the current page structure of Yahoo Finance and my own coding style. In addition, I added a few steps that I, as web scraping newbie, had to look up while going through his guide.&lt;/p&gt;
-&lt;p&gt;To begin with, I want to urge you to read at least the legal and ethical considerations put forward by &lt;a href=&#34;https://www.sustainalytics.com/&#34;&gt;Kyle&lt;/a&gt;. Most importantly, I want to mention that, when performing web scraping tasks, it is both good practice and often required to set a custom user agent request header to identify yourself, as well as sending requests at a modest rate to ‘smell like a human’. I consider both of these key aspects in my code below.&lt;/p&gt;
+&lt;p&gt;To begin with, I want to urge you to read at least the legal and ethical considerations put forward by &lt;a href=&#34;https://www.kylerudden.com/blog/scraping-esg-scores/&#34;&gt;Kyle&lt;/a&gt;. Most importantly, I want to mention that, when performing web scraping tasks, it is both good practice and often required to set a custom user agent request header to identify yourself, as well as sending requests at a modest rate to ‘smell like a human’. I consider both of these key aspects in my code below.&lt;/p&gt;
 &lt;p&gt;Throughout this note, I rely on the following packages:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse) # overall grammar
 library(tidytext)  # only for reorder_within function
