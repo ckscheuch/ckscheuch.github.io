@@ -4,47 +4,52 @@
   
   <url>
     <loc>https://christophscheuch.github.io/authors/admin/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/authors/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/categories/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophscheuch.github.io/post/r-stuff/historical-total-return/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/post/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/categories/r/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/tags/r/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophscheuch.github.io/tags/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/post/r-stuff/scraping-esg-data/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christophscheuch.github.io/tags/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,12 +158,12 @@
   </url>
   
   <url>
-    <loc>https://christophscheuch.github.io/categories/blockchain/</loc>
+    <loc>https://christophscheuch.github.io/tags/blockchain/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christophscheuch.github.io/tags/blockchain/</loc>
+    <loc>https://christophscheuch.github.io/categories/blockchain/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
