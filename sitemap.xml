@@ -4,27 +4,47 @@
   
   <url>
     <loc>https://christophscheuch.github.io/authors/admin/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/authors/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/categories/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://christophscheuch.github.io/post/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophscheuch.github.io/tags/r-unsupervised-learning/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophscheuch.github.io/tags/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophscheuch.github.io/post/unsupervised-learning/clustering-binary-data/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophscheuch.github.io/categories/unsupervised-learning/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +54,6 @@
   
   <url>
     <loc>https://christophscheuch.github.io/tags/r/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christophscheuch.github.io/tags/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,12 +113,12 @@
   </url>
   
   <url>
-    <loc>https://christophscheuch.github.io/categories/asset-pricing/</loc>
+    <loc>https://christophscheuch.github.io/tags/asset-pricing/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christophscheuch.github.io/tags/asset-pricing/</loc>
+    <loc>https://christophscheuch.github.io/categories/asset-pricing/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +178,12 @@
   </url>
   
   <url>
-    <loc>https://christophscheuch.github.io/tags/blockchain/</loc>
+    <loc>https://christophscheuch.github.io/categories/blockchain/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://christophscheuch.github.io/categories/blockchain/</loc>
+    <loc>https://christophscheuch.github.io/tags/blockchain/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
